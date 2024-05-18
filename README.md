@@ -1,1 +1,1 @@
-# ADFRepo by Pratul
+# ADFRepo
