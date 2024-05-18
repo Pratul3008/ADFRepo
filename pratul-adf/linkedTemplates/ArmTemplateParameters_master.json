@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "pratul-adf"
+		},
+		"ls_adls_properties_typeProperties_url": {
+			"value": "https://pratulstorage.dfs.core.windows.net"
+		},
+		"ls_kv_properties_typeProperties_baseUrl": {
+			"value": "https://pratul-dev-kv.vault.azure.net/"
+		},
+		"default_properties_param_value": {
+			"value": "dev"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
