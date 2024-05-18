@@ -1,0 +1,17 @@
+{
+	"name": "pratul-adf",
+	"properties": {
+		"globalParameters": {
+			"param": {
+				"type": "string",
+				"value": "dev"
+			}
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9eb1b150-ff83-406d-ae8e-3ef9a95255ca",
+		"tenantId": "99cd774b-b6b4-4afd-bc02-60babb2d86d6"
+	}
+}
